@@ -9,6 +9,6 @@
     <title>GitHub Bio</title>
 </head>
 <body>
-<img src="images/banner.jpg" alt="My Banner" width="100">
+<img src="https://www.avc.edu/sites/default/files/administration/marketing/avclogocolor.png" alt="My Banner" width="100">
 </body>
 </html>
