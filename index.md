@@ -24,6 +24,10 @@
 <h2 id="links">Find Me Online</h2>
 <ul>
     <li><a href="https://github.com/dpaynter-a11y" target="_blank">GitHub</a></li>
+    <li><a herf="https://www.linkedin.com/in/david-paynter-75686442a/" target="_blank">linkedin</a></li>
 <ul>
+<p>
+    Contact:
+    <a herf="mailto:dpaynter@students.avc.edu">dpaynter@students.avc</a>
 </body>
 </html>
