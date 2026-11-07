@@ -9,6 +9,18 @@
     text-decoration: none;
   }
   </style>
+  <style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+  .card {
+    padding: 14px;
+    background: #f4f4f4;
+    border-radius: 8px;
+  }
+</style>
 </head>
 <body>
 <h1>David Vegeta Paynter</h1>
@@ -29,5 +41,11 @@
 <p>
     Contact:
     <a herf="mailto:dpaynter@students.avc.edu">dpaynter@students.avc</a>
+<p>
+<section class="grid">
+  <div class="card"><n3>Education</h3><p>AS CS _ AVC, expected 2027</p></div>
+  <div class="card"><h3>Skills</h3><p>HTML, python, C++</p></div>
+  <div class="card"><h3>Interests</h3><p>Web development, AI, gaming</p></div>
+</section>
 </body>
 </html>
