@@ -39,13 +39,22 @@
     <li><a herf="https://www.linkedin.com/in/david-paynter-75686442a/" target="_blank">linkedin</a></li>
 <ul>
 <p>
-    Contact:
-    <a herf="mailto:dpaynter@students.avc.edu">dpaynter@students.avc</a>
+  Contact:
+  <a herf="mailto:dpaynter@students.avc.edu">dpaynter@students.avc</a>
 <p>
 <section class="grid">
   <div class="card"><n3>Education</h3><p>AS CS _ AVC, expected 2027</p></div>
   <div class="card"><h3>Skills</h3><p>HTML, python, C++</p></div>
   <div class="card"><h3>Interests</h3><p>Web development, AI, gaming</p></div>
 </section>
+<h2 id="projects">Projects</h2>
+<details>
+  <summary>CS110 Bio Page</summary>
+  <p>Built with HTML and CSS. Hosted on GitHub Pages.</p>
+</details>
+<details>
+  <summary>Python Calculator</summary>
+  <p>A calculator app I built in CS120 for my final project.</p>
+</details>
 </body>
 </html>
